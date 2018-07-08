@@ -1,55 +1,39 @@
-# JavaScript Fundamentals
+# JS Fundamentals
 
-JS & syntax is what most courses focus on.  We focus on what happens behind the syntax, and how to use it wisely.
+The first step towards becoming a code master is to become JavaScript.  
 
-notional machine & using code
+1. Memorize the basic language features in JS.
+2. Step through simple scripts exactly like the computer does.
 
-### Index
-* [Learning Objectives](#learning-objectives)
-* [Specifications](#specifications)
-* [Resources](#resources)
+Neither of these skills are as easy as the sound, and both of them are the foundation for everything else to come.  Your end goal is to write applications large and small that provide practical solutions to real-world problems, but this is for later.  You won't be able to do this until you've mastered your primary tool - __the JavaScript language__.  
 
----
+No matter how smart you are, or how good you are at what you did before learning to code, be prepared to struggle.  [This is totally normal](http://elewa.education/2018/01/22/thinking-computer-thoughts/).  Being good at programming (or learning it quickly) are not indicators of how intelligent you are.  They are indicators of how close your thinking style is to that of a computer programmer.  
 
-## Learning Objectives
+_Don't be discouraged!_  If you master these fundamentals now, you will be prepared to learn the principles of software development and real-world problem solving. 
 
-* JavaScript Notional Machine
-* Seeing code as functional units
-* 
+So study hard! Dig in now, and keep at it every day.  The more you prepare, the more everyone will benefit.
 
-[TOP](#javascript-fundamentals)
-
----
-
-## Specifications
+___
 
 
-
-
-[TOP](#javascript-fundamentals)
-
----
-
-## Resources
-
-#### Tools:
-* [PythonTutor for JavaScript](http://www.pythontutor.com/javascript.html#mode=edit):
-  * For building your Notional Machine: visualizes how the JavaScript engine steps through code, deals with variables, and handles function execution. 
-  * Copy your code into the text area and click "visualize execution".  Step through line by line with the "forward" button.  See [this markdown]() for more tips.
-* [Step-Through Diagrams](make a folder in this repo):
-  * By Step:  Focus on everything that happens in each step of execution. 
-  * By Variable:  Focus on how each variable changes over the course of program execution.
-* [Parsonizer](https://elewa-academy.github.io/parsons/):
-  * Randomizes the lines in your code, you have to put them back in order (tabs count!).  This will help you learn syntactic structures & develop your logical problem solving skills by studying quality examples.
-  * Copy paste your code into the text box and click the magic button.  Click "get feedback" to grade your answer.
-* [Realtime flow-chart generator](https://bogdan-lyashenko.github.io/js-code-to-svg-flowchart/docs/live-editor/index.html):
-  * For visualizing flow control, the logical structure & progression of your code.
-  * Copy paste code into this site to automatically generate flow control visualizations.
-
-
-[TOP](#javascript-fundamentals)
+0. _**[JS Notional Machine](https://github.com/elewa-academy/js-notional-machine)**_:
+  * The code you read and write is really just a text-based UI for the JS compiler and runtime.  Your goal in this introduction to JavaScript is to learn how the machine behind the code interprets and executes the commands you write.  
+1. _**[Deliberate Practice](./deliberate-practice.md)**_:
+  * It's not enough to complete exercises and make your code work, every exercise is an opportunity to learn.  Learning to code will be very different from anything else you've learned before so take a look through these tips specifically for learning how to program.
+2. _**[Visualize Behavior](./visualizing-runtime.md)**_:
+  * The primary learning objective for this Fundamentals series is to learn how JavaScript works behind the scenes.  There is no better way to do this than by visualizing your code's behavior with specialized softwares, pencil and paper. (Except maybe to write your own JS compiler.)
+3. _**[Self Assessment](./self-assessment)**_:
+  * 
+4. _**[JavaScript](./javascript.md)**_:
+  1. _[Variables & Types](htts://github.com/elewa-academy/variables-and-types)_: Learn to diagram __variables and their values__.  This covers: __hoisting, let, var, Primitives vs. Objects, objects without methods, arrays, garbage collection__.
+  2. _[Scope & Control Flow](https://github.com/elewa-academy/scope-and-control-flow)_: Learn to diagram __block scope__ as it's implemented in code containing control flow operations.  This covers: __block scope, conditionals, loops, error handling, evaluating operations by hand__.
+  3. _[Scope & Context](https://github.com/elewa-academy/scope-and-context)_: Learn to diagram __execution context__. This covers: __the call stack, context, lexical scope, functions, return values, closure__.
+  4. _[Objects with Methods](https://github.com/elewa-academy/objects-with-methods)_:  Learn to diagram the peculiarities of context & lexical scope in object methods.  This covers: __this, object methods (w/ inheritance), method closure_.
+  5. _[Prototypical Inheritance](https://github.com/elewa-academy/prototypcal-inheritance)_: Learn to diagram __inheritance chains__ and the JavaScript object/type system.  This covers: __the lookup chain, \_\_proto\_\_, .prototype, native js types & objects__. 
+  6. _[Asynchronous Behavior](https://github.com/elewa-academy/asynchronous-behavior)_:  Learn to diagram __asynchronous behavior__.  This covers: __callbacks, promises, the event loop__.
 
 ___
 ___
 ### <a href="http://elewa.education/blog" target="_blank"><img src="https://user-images.githubusercontent.com/18554853/34921062-506450ae-f97d-11e7-875f-6feeb26ad72d.png" width="100" height="40"/></a>
+
 
