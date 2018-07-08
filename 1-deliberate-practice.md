@@ -38,15 +38,15 @@ Remember, you're here to learn not to perform!
 ## Specifications
 
 1. Set aside a chapter in your notes for JavaScript language features:    
-  * You'll want to build your own 'vocabulary list' to keep track of the built-in JS language features as you come across them.  One of the most common difficulties in the early stages of programming is just remembering all of the language features available!  
-  * Having a complete list of everything you know, written in your own words, will be invaluable as you try to start to solve programming challenges on your own.
-  * Start building a collection of clear code samples & sketches that have helped you understand key concepts, we recommend trying to store them in a directory of Markdown files.   
+    * You'll want to build your own 'vocabulary list' to keep track of the built-in JS language features as you come across them.  One of the most common difficulties in the early stages of programming is just remembering all of the language features available!  
+    * Having a complete list of everything you know, written in your own words, will be invaluable as you try to start to solve programming challenges on your own.
+    * Start building a collection of clear code samples & sketches that have helped you understand key concepts, we recommend trying to store them in a directory of Markdown files.   
 2. Familiarize yourself with the [JS Tool Kit](https://github.com/elewa-academy/js-tool-kit), especially these two tools: 
-  * [PythonTutor](http://www.pythontutor.com/javascript.html#mode=edit).
-  * [Loupe](http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0KCkgewogICAgY29uc29sZS5sb2coIkNsaWNrIHRoZSBidXR0b24hIik7Cn0sIDUwMDApOwoKY29uc29sZS5sb2coIldlbGNvbWUgdG8gbG91cGUuIik7!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D)
+    * [PythonTutor](http://www.pythontutor.com/javascript.html#mode=edit).
+    * [Loupe](http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0KCkgewogICAgY29uc29sZS5sb2coIkNsaWNrIHRoZSBidXR0b24hIik7Cn0sIDUwMDApOwoKY29uc29sZS5sb2coIldlbGNvbWUgdG8gbG91cGUuIik7!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D)
 3. Work your way through the JavaScript diagramming guides linked to the main README for this repo:  
-  * With these guides you will learn to build a strong model of how the JavaScript engine executes your code.
-  * These repos will complement whatever tutorial you choose to follow by providing you with several powerful study techniques to internalize what you are practicing.  
+    * With these guides you will learn to build a strong model of how the JavaScript engine executes your code.
+    * These repos will complement whatever tutorial you choose to follow by providing you with several powerful study techniques to internalize what you are practicing.  
 4. Practice whatever keeps you motivated. If you find one tutorial too easy, hard, or boring, move on!  What's important is that you can predict how JS will execute simple programs, not the tutorials you complete.
 5. Stay involved!  Studying a little bit (even 15 minutes) every day and staying active on Slack will make you life a lot easier.
 
