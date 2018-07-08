@@ -46,7 +46,12 @@ ___
 
 ## Resources
 
+* [Great intro video](https://www.youtube.com/watch?v=_ZoIPXJ8XRQ)
+* [Intro: Future Learn](https://www.futurelearn.com/courses/learning-teaching-university/0/steps/26410)
+* [Intro: Hooked on Thinking](http://www.pamhook.com/mediawiki/images/b/b2/SOLO_Taxonomy%2C_Scratch_and_Angles_in_Geometry.pdf)
 
+* [Self-assessment template](http://pamhook.com/mediawiki/images/e/ee/SOLO_Functioning_Knowledge_Rubric_Template.pdf)
+* [Example self-assessment for loops](http://pamhook.com/mediawiki/images/1/10/HookED_Writing_Code_Rubric.pdf)
 
 
 [TOP](#self-assessment)

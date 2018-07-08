@@ -16,21 +16,17 @@ So study hard! Dig in now, and keep at it every day.  The more you prepare, the 
 ___
 
 
-0. _**[JS Notional Machine](https://github.com/elewa-academy/js-notional-machine)**_:
-  * The code you read and write is really just a text-based UI for the JS compiler and runtime.  Your goal in this introduction to JavaScript is to learn how the machine behind the code interprets and executes the commands you write.  
-1. _**[Deliberate Practice](./deliberate-practice.md)**_:
-  * It's not enough to complete exercises and make your code work, every exercise is an opportunity to learn.  Learning to code will be very different from anything else you've learned before so take a look through these tips specifically for learning how to program.
-2. _**[Visualize Behavior](./visualizing-runtime.md)**_:
-  * The primary learning objective for this Fundamentals series is to learn how JavaScript works behind the scenes.  There is no better way to do this than by visualizing your code's behavior with specialized softwares, pencil and paper. (Except maybe to write your own JS compiler.)
-3. _**[Self Assessment](./self-assessment)**_:
-  * 
-4. _**[JavaScript](./javascript.md)**_:
-  1. _[Variables & Types](htts://github.com/elewa-academy/variables-and-types)_: Learn to diagram __variables and their values__.  This covers: __hoisting, let, var, Primitives vs. Objects, objects without methods, arrays, garbage collection__.
-  2. _[Scope & Control Flow](https://github.com/elewa-academy/scope-and-control-flow)_: Learn to diagram __block scope__ as it's implemented in code containing control flow operations.  This covers: __block scope, conditionals, loops, error handling, evaluating operations by hand__.
-  3. _[Scope & Context](https://github.com/elewa-academy/scope-and-context)_: Learn to diagram __execution context__. This covers: __the call stack, context, lexical scope, functions, return values, closure__.
-  4. _[Objects with Methods](https://github.com/elewa-academy/objects-with-methods)_:  Learn to diagram the peculiarities of context & lexical scope in object methods.  This covers: __this, object methods (w/ inheritance), method closure_.
-  5. _[Prototypical Inheritance](https://github.com/elewa-academy/prototypcal-inheritance)_: Learn to diagram __inheritance chains__ and the JavaScript object/type system.  This covers: __the lookup chain, \_\_proto\_\_, .prototype, native js types & objects__. 
-  6. _[Asynchronous Behavior](https://github.com/elewa-academy/asynchronous-behavior)_:  Learn to diagram __asynchronous behavior__.  This covers: __callbacks, promises, the event loop__.
+0. _**[JS Notional Machine](https://github.com/elewa-academy/js-notional-machine)**_:  The code you read and write is really just a text-based UI for the JS compiler and runtime.  Your goal in this introduction to JavaScript is to learn how the machine behind the code interprets and executes the commands you write.  
+1. _**[Deliberate Practice](./deliberate-practice.md)**_: It's not enough to complete exercises and make your code work, every exercise is an opportunity to learn.  Learning to code will be very different from anything else you've learned before so take a look through these tips specifically for learning how to program.
+2. _**[Visualize Behavior](./visualizing-runtime.md)**_: The primary learning objective for this Fundamentals series is to learn how JavaScript works behind the scenes.  There is no better way to do this than by visualizing your code's behavior with specialized softwares, pencil and paper. (Except maybe to write your own JS compiler.)
+3. _**[Self Assessment](./self-assessment)**_: Learning to assess your own knowledge and performance are indispensable skills for a software developer.  Here we'll introduce you to a few concepts and techniques you can use to assess your understanding of JavaScript (and more generally, software development) as you work your way through this curriculum.
+4. _**[JavaScript](./javascript.md)**_:  
+    1. _[Variables & Types](htts://github.com/elewa-academy/variables-and-types)_: Learn to diagram __variables and their values__.  This covers: __hoisting, let, var, Primitives vs. Objects, objects without methods, arrays, garbage collection__.
+    2. _[Scope & Control Flow](https://github.com/elewa-academy/scope-and-control-flow)_: Learn to diagram __block scope__ as it's implemented in code containing control flow operations.  This covers: __block scope, conditionals, loops, error handling, evaluating operations by hand__.
+    3. _[Scope & Context](https://github.com/elewa-academy/scope-and-context)_: Learn to diagram __execution context__. This covers: __the call stack, context, lexical scope, functions, return values, closure__.
+    4. _[Objects with Methods](https://github.com/elewa-academy/objects-with-methods)_:  Learn to diagram the peculiarities of context & lexical scope in object methods.  This covers: __this, object methods (w/ inheritance), method closure_.
+    5. _[Prototypical Inheritance](https://github.com/elewa-academy/prototypcal-inheritance)_: Learn to diagram __inheritance chains__ and the JavaScript object/type system.  This covers: __the lookup chain, \_\_proto\_\_, .prototype, native js types & objects__. 
+    6. _[Asynchronous Behavior](https://github.com/elewa-academy/asynchronous-behavior)_:  Learn to diagram __asynchronous behavior__.  This covers: __callbacks, promises, the event loop__.
 
 ___
 ___
