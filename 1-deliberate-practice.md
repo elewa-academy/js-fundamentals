@@ -44,7 +44,7 @@ Remember, you're here to learn not to perform!
 2. Familiarize yourself with the [JS Tool Kit](https://github.com/elewa-academy/js-tool-kit), especially these two tools: 
     * [PythonTutor](http://www.pythontutor.com/javascript.html#mode=edit).
     * [Loupe](http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0KCkgewogICAgY29uc29sZS5sb2coIkNsaWNrIHRoZSBidXR0b24hIik7Cn0sIDUwMDApOwoKY29uc29sZS5sb2coIldlbGNvbWUgdG8gbG91cGUuIik7!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D)
-3. Work your way through the JavaScript diagramming guides linked to the main README for this repo:  
+3. Work your way through the JavaScript diagramming guides linked in the main README for this repo:  
     * With these guides you will learn to build a strong model of how the JavaScript engine executes your code.
     * These repos will complement whatever tutorial you choose to follow by providing you with several powerful study techniques to internalize what you are practicing.  
 4. Practice whatever keeps you motivated. If you find one tutorial too easy, hard, or boring, move on!  What's important is that you can predict how JS will execute simple programs, not the tutorials you complete.
