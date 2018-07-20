@@ -25,7 +25,7 @@ ___
     2. _[Scope & Control Flow](https://github.com/elewa-academy/scope-and-control-flow)_: Learn to diagram __block scope__ as it's implemented in code containing control flow operations.  This covers: __block scope, conditionals, loops, error handling, evaluating operations by hand__.
     3. _[Scope & Context](https://github.com/elewa-academy/scope-and-context)_: Learn to diagram __execution context__. This covers: __the call stack, context, lexical scope, functions, return values, closure__.
     4. _[Objects with Methods](https://github.com/elewa-academy/objects-with-methods)_:  Learn to diagram the peculiarities of context & lexical scope in object methods.  This covers: __this, object methods (w/ inheritance), method closure_.
-    5. _[Prototypical Inheritance](https://github.com/elewa-academy/prototypcal-inheritance)_: Learn to diagram __inheritance chains__ and the JavaScript object/type system.  This covers: __the lookup chain, \_\_proto\_\_, .prototype, native js types & objects__. 
+    5. _[Prototypical Inheritance](https://github.com/elewa-academy/prototypical-inheritance)_: Learn to diagram __inheritance chains__ and the JavaScript object/type system.  This covers: __the lookup chain, \_\_proto\_\_, .prototype, native js types & objects__. 
     6. _[Asynchronous Behavior](https://github.com/elewa-academy/asynchronous-behavior)_:  Learn to diagram __asynchronous behavior__.  This covers: __callbacks, promises, the event loop__.
 
 ___
