@@ -21,7 +21,7 @@ ___
 2. _**[Visualize Behavior](./2-visualize-behavior.md)**_: The primary learning objective for this Fundamentals series is to learn how JavaScript works behind the scenes.  There is no better way to do this than by visualizing your code's behavior with specialized softwares, pencil and paper. (Except maybe to write your own JS compiler.)
 3. _**[Self Assessment](./3-self-assessment.md)**_: Learning to assess your own knowledge and performance are indispensable skills for a software developer.  Here we'll introduce you to a few concepts and techniques you can use to assess your understanding of JavaScript (and more generally, software development) as you work your way through this curriculum.
 4. _**[JavaScript](./4-javascript.md)**_:  Coming Soon!
-    
+ 
 ___
 ___
 ### <a href="http://elewa.education/blog" target="_blank"><img src="https://user-images.githubusercontent.com/18554853/34921062-506450ae-f97d-11e7-875f-6feeb26ad72d.png" width="100" height="40"/></a>
